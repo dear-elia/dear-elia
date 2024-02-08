@@ -1,12 +1,10 @@
-<h1 align="center">Hi there, I'm Eldira - aka Elia 🌸</h1>
-<h3 align="center">STUDENT, DEVELOPER and passionate LEARNER from Korea</h3>
 <img width="1825" alt="mybanner" src="https://github.com/dear-elia/dear-elia/assets/158578235/1126bdb4-3e09-4968-9c34-89cba338da01">
 
-👩🏻‍💻 I’m a 3rd year student pursuing **Computer Science in South Korea.**
+I’m a 3rd year student pursuing **Computer Science in South Korea.**
 
-📱 I’m currently learning **Mobile Development.**
+I’m currently learning **Mobile Development.**
 
-💻 I’m a tech enthusiast **who loves building things and solving problems.**
+I’m a tech enthusiast **who loves building things and solving problems.**
 
 💌 How to reach me **eldira-safargalina@mail.ru**
 
