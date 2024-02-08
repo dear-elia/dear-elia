@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Eldira - aka Elia 🌸</h1>
 <h3 align="center">STUDENT, DEVELOPER and passionate LEARNER from Korea</h3>
-<div align="center"> <img src="https://raw.githubusercontent.com/dear-elia/dear-elia/main/mybanner.png"> </div>
+![Databrick project with Snowflake](mybanner.png)
 
 👩🏻‍💻 I’m a 3rd year student pursuing **Computer Science in South Korea.**
 
