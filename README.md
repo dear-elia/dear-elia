@@ -2,9 +2,9 @@
 
 I’m a 4th year student pursuing **Computer Science in South Korea.**
 
-I’m currently learning **Data science**
+I’m currently learning **Software Development**
 
-💌 How to reach me **eldira-safargalina@mail.ru**
+💌 How to reach me **ella08inspirit@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
